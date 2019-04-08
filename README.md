@@ -1,1 +1,2 @@
 # Optimal-binary-pulse-receiver-using-matched-filter-in-MATLAB
+Designed an optimal receiver for receiving noise added polar binary polar coded signal. Used matched filtering and threshold detection for the binary polar coded signal. Calculated CRC-8 for the received sequence. Performed Huffman coding on the first-order extension of the received binary sequence. Calculated entropy, efficiency and compared both original and Huffman coded first order extended for efficiency and entropy values.
